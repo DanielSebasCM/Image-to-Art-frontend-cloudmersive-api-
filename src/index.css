@@ -1,0 +1,45 @@
+.uploadBtn {
+    height: 200px;
+    width: 700px;
+    background-color: #265cc5;
+    border-radius: 40px;
+
+    color: #fafafa;
+    font-size: 70px;
+    border-style: hidden;
+    font-family: Kaushan Script;
+}
+
+.imgBackground {
+    background: #192953;
+    border-radius: 40px;
+}
+
+#imgPreview {
+    height: 400px;
+    width: 400px;
+    border-radius: 40px;
+}
+
+#imgResponse {
+    height: 700px;
+    width: 700px;
+    border-radius: 40px;
+}
+
+.main_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 10vw;
+}
+
+.input_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 100px
+}

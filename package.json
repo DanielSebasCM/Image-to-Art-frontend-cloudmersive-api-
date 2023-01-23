@@ -1,0 +1,29 @@
+{
+  "name": "image-to-art-frontend-cloudmersive-api-",
+  "version": "1.0.0",
+  "description": "Frontend page to tranform inageas to artwork using the cloudmersive artisitc api endpoint",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielSebasCM/Image-to-Art-frontend-cloudmersive-api-.git"
+  },
+  "keywords": [
+    "AI",
+    "image",
+    "processing"
+  ],
+  "author": "Daniel Cajas <danielsebascm@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielSebasCM/Image-to-Art-frontend-cloudmersive-api-/issues"
+  },
+  "homepage": "https://github.com/DanielSebasCM/Image-to-Art-frontend-cloudmersive-api-#readme",
+  "type": "module",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router": "^6.7.0"
+  }
+}
